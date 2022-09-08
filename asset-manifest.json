@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/knowmor/static/css/main.66c2d39a.css",
-    "main.js": "/knowmor/static/js/main.cc5b3d6d.js",
-    "static/js/787.a01a1db0.chunk.js": "/knowmor/static/js/787.a01a1db0.chunk.js",
-    "index.html": "/knowmor/index.html",
-    "main.66c2d39a.css.map": "/knowmor/static/css/main.66c2d39a.css.map",
-    "main.cc5b3d6d.js.map": "/knowmor/static/js/main.cc5b3d6d.js.map",
-    "787.a01a1db0.chunk.js.map": "/knowmor/static/js/787.a01a1db0.chunk.js.map"
+    "main.css": "/my-app1/static/css/main.66c2d39a.css",
+    "main.js": "/my-app1/static/js/main.2d0ff57e.js",
+    "static/js/787.cc4e593a.chunk.js": "/my-app1/static/js/787.cc4e593a.chunk.js",
+    "index.html": "/my-app1/index.html",
+    "main.66c2d39a.css.map": "/my-app1/static/css/main.66c2d39a.css.map",
+    "main.2d0ff57e.js.map": "/my-app1/static/js/main.2d0ff57e.js.map",
+    "787.cc4e593a.chunk.js.map": "/my-app1/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66c2d39a.css",
-    "static/js/main.cc5b3d6d.js"
+    "static/js/main.2d0ff57e.js"
   ]
 }
